@@ -73,7 +73,7 @@ This project applies **data analytics and visualization** techniques to address 
 ## ⚙️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/tourism-trend-analysis.git
+   git clone https://github.com/<bhavi1501>/tourism-trend-analysis.git
    cd tourism-trend-analysis
    ```
 2. Install dependencies:
@@ -99,8 +99,7 @@ This project applies **data analytics and visualization** techniques to address 
 **Bhavya K**  
 _Data Analyst | Python Developer | EDA & Visualization Enthusiast_
 
-📫 **GitHub:** [github.com/bhavyak123](https://github.com/bhavyak123)  
-💼 **LinkedIn:** [linkedin.com/in/bhavya-k](#)
+
 
 ---
 
