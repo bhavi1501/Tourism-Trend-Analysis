@@ -82,7 +82,7 @@ This project applies **data analytics and visualization** techniques to address 
    ```
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook "tourism_trend_analysis.ipynb"
+   jupyter notebook "edaproject (2).ipynb"
    ```
 
 ---
