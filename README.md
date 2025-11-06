@@ -1,4 +1,4 @@
-# 🧭 Travel Triangle EDA Project
+# 🧭 Tourism Trend Analysis
 
 ## 📘 Overview
 This project focuses on analyzing **travel package data** obtained from the **Travel Triangle** website.  
